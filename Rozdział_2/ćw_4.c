@@ -1,3 +1,4 @@
+//Program z dodatkowymi funkcjami
 #include<stdio.h>
 void PanieJanie(void);
 void RanoWstan(void);
