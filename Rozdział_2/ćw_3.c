@@ -1,5 +1,5 @@
+//przeliczanie wieku (lat) na dni
 #include<stdio.h>
-#include<string.h>
 #define ROK 365
 int main(void)
 {
